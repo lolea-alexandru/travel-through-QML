@@ -1,3 +1,3 @@
-# Cartpole game
+# Travel through Quantum Machine Learning
 
-Welcome to my implementation of the Cartpole game using Pennylane.
+Welcome! Join me as I travel through the mysterious lands of QML (Quantum Machine Learning)
